@@ -4,8 +4,6 @@
 #
 # Copyright (C) 2014 De Marque inc.
 #
-# All rights reserved - Do Not Redistribute
-#
 
 include_recipe 'ip_finder'
 
